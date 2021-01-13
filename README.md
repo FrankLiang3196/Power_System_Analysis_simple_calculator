@@ -14,7 +14,9 @@ Run mainwindow to start.
 
 You can load the examples in the example file.
 
-## Package used:
+## Package used
 numpy >= 1.19
+
 PyQt5 >= 5.15
+
 prettytable >= 2.0
