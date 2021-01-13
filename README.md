@@ -1,6 +1,7 @@
 # Power_System_Analysis_simple_calculator
 power grid voltage and flow calculator using Newton-Ralphson method
 
+## Introduction
 This program is only used for class demonstration.
 
 Newton-Ralphson mathod is used to calculate the bus voltage. 
@@ -13,10 +14,7 @@ Run mainwindow to start.
 
 You can load the examples in the example file.
 
-Package used:
-
+## Package used:
 numpy >= 1.19
-
 PyQt5 >= 5.15
-
 prettytable >= 2.0
