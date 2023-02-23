@@ -4,7 +4,7 @@ power grid voltage and flow calculator using Newton-Ralphson method
 ## Introduction
 This program is only used for class demonstration.
 
-Newton-Ralphson mathod is used to calculate the bus voltage. 
+Newton-Ralphson method is used to calculate the bus voltage. 
 Complex matrix calculation are used to simplify the calculation of Jacobi matrix and the unbalanced power.
 
 A user interface is used for easier calculation.
